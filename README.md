@@ -1,0 +1,1 @@
+# Dell-Inspiron-7590-Ventura
