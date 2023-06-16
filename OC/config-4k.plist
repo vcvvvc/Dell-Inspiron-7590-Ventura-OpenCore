@@ -2153,7 +2153,7 @@
 				<key>SystemAudioVolume</key>
 				<data>JQ==</data>
 				<key>boot-args</key>
-				<string>-igfxblt</string>
+				<string>-igfxblt igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
