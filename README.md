@@ -1,14 +1,14 @@
 # Dell-Inspiron-7590-Ventura
 
-- Dell-Inspiron-7590 （4K由于没机器未测试，但理论上没问题）
+- Dell-Inspiron-7590 （4K与HDMI由于没机器未测试，4K理论上没问题，HDMI需要自行测试）
  
 - OC: 0.9.1
  
 - macOS Ventura 13.4 (22F66)
  
-- 启动第二阶段黑屏已修复
- 
-- 睡眠无法唤醒问题偶尔被触发
+- 启动第二阶段黑屏已修复，睡眠唤醒问题修复，蓝牙-wifi正常可用
+
+**等待Macos Sonoma 14.5发布**
 
 ---
 
