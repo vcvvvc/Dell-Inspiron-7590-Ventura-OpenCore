@@ -1,6 +1,6 @@
 # Dell-Inspiron-7590-Ventura
 
-- Dell-Inspiron-7590 （4K由于没机器未测试，但理论上没问题）
+- Dell-Inspiron-7590 （4K与HDMI由于没机器未测试，4K理论上没问题，HDMI需要自行测试）
  
 - OC: 0.9.1
  
