@@ -11,6 +11,8 @@
   - [https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/1](https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/1) 安装后蓝牙失效看这个调整
    
   - [https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/2](https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/2) HDMI修复
+ 
+  - 【三码洗白，将你的黑苹果洗为白苹果】 https://www.bilibili.com/video/BV1454y167ML
 
 **等待Macos Sonoma 14.5发布**
 
