@@ -7,8 +7,6 @@
 - macOS Ventura 13.4 (22F66)
  
 - 启动第二阶段黑屏已修复，睡眠唤醒问题修复，蓝牙-wifi正常可用
- 
-  - [https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/1](https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/1) 安装后蓝牙失效看这个调整
    
   - [https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/2](https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/2) HDMI修复
  
