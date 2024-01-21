@@ -1,6 +1,6 @@
 # Dell-Inspiron-7590-Ventura
 
-- Dell-Inspiron-7590 （4K与HDMI由于没机器未测试）- 4K, HDMI untested
+- Dell-Inspiron-7590 （4K无设备未测试）- 4K untested
 
 - OC: 0.9.1
  
@@ -8,11 +8,11 @@
 
 ---
  
-启动第二阶段黑屏已修复，睡眠唤醒问题修复，蓝牙-wifi正常可用
+**HDMI/蓝牙/Wi-Fi 可用, 麦克风问题暂时无解**
 
-The black screen in the second stage has been fixed, the sleep wake-up issue has been fixed, and Bluetooth WiFi is available normally
+HDMI/Bluetooth/Wi-Fi works fine, microphone issue is not solved for now.
 
-- 【三码洗白，将你的黑苹果洗为白苹果】 https://www.bilibili.com/video/BV1454y167ML
+- 【必要的三码洗白，将你的黑苹果洗为白苹果】 https://www.bilibili.com/video/BV1454y167ML
   
 ---
 
