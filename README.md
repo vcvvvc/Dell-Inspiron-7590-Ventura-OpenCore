@@ -11,12 +11,14 @@
 启动第二阶段黑屏已修复，睡眠唤醒问题修复，蓝牙-wifi正常可用
 
 The black screen in the second stage has been fixed, the sleep wake-up issue has been fixed, and Bluetooth WiFi is available normally
-   
-  - [https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/2](https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/2) HDMI修复 -  Fix HDMI
- 
-  - 【三码洗白，将你的黑苹果洗为白苹果】 https://www.bilibili.com/video/BV1454y167ML
 
-**等待Macos Sonoma 14.5发布**
+- 【三码洗白，将你的黑苹果洗为白苹果】 https://www.bilibili.com/video/BV1454y167ML
+  
+---
+
+## Fix HDMI and Bluetooth tutorial
+
+- [https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/6](https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/6)
 
 ---
 
@@ -26,7 +28,7 @@ The black screen in the second stage has been fixed, the sleep wake-up issue has
 
 ---
 
-## Macos12.5 
+## Macos12.5 OC
 
 https://github.com/6923403/Dell-Inspiron-7590-Monterey
 
