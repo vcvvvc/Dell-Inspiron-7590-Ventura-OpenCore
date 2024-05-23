@@ -18,7 +18,7 @@ HDMI/Bluetooth/Wi-Fi works fine, microphone issue is not solved for now.
 
 ## 修复HDMI/蓝牙教程 - Fix HDMI and Bluetooth tutorial
 
-- [https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/6](https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/6)
+- [https://github.com/vcvvvc/Dell-Inspiron-7590-Ventura/issues/6](https://github.com/vcvvvc/Dell-Inspiron-7590-Ventura/issues/6)
 
 ---
 
@@ -30,5 +30,5 @@ HDMI/Bluetooth/Wi-Fi works fine, microphone issue is not solved for now.
 
 ## Macos12.5 OC
 
-https://github.com/6923403/Dell-Inspiron-7590-Monterey
+https://github.com/vcvvvc/Dell-Inspiron-7590-Monterey
 
