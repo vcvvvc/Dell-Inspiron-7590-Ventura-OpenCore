@@ -24,7 +24,7 @@ HDMI/Bluetooth/Wi-Fi works fine, microphone issue is not solved for now.
 
 ## Desktop
 
-![dk](./img/dk.png)
+![dk](./img/dknew.png)
 
 ---
 
