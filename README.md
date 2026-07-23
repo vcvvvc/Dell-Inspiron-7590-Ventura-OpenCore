@@ -2,9 +2,7 @@
 
 - Dell-Inspiron-7590 （4K无设备未测试）- 4K untested
 
-- OC: 0.9.1
- 
-- macOS Ventura 13.4 (22F66)
+- macOS Ventura 13.7.8 (22H730)
 
 ---
  
@@ -19,12 +17,6 @@ HDMI/Bluetooth/Wi-Fi works fine, microphone issue is not solved for now.
 ## 修复HDMI/蓝牙教程 - Fix HDMI and Bluetooth tutorial
 
 - [https://github.com/vcvvvc/Dell-Inspiron-7590-Ventura/issues/6](https://github.com/vcvvvc/Dell-Inspiron-7590-Ventura/issues/6)
-
----
-
-## Desktop
-
-![dk](./img/dknew.png)
 
 ---
 
