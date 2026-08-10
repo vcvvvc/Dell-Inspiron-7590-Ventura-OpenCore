@@ -6,7 +6,7 @@
 
 ---
  
-**HDMI/蓝牙/Wi-Fi 可用, 麦克风问题暂时无解**
+**HDMI/蓝牙/Wi-Fi 可用, 麦克风问题通过外接设备可用语音输入**
 
 HDMI/Bluetooth/Wi-Fi works fine, microphone issue is not solved for now.
 
